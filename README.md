@@ -10,7 +10,7 @@ The dashboard provides interactive insights into sales, quantity, category perfo
 
 ## 📊 Dashboard Preview
 
-![Market Analysis Dashboard](Images.png)
+![Market Analysis Dashboard](Image.png)
 
 ---
 
